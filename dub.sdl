@@ -1,0 +1,5 @@
+name "whim-edit"
+description "Terminal Editor"
+copyright "Copyright © 2021 wake-code"
+authors "wake-code"
+dependency "termbox" version="0.0.3"

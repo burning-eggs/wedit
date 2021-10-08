@@ -1,0 +1,12 @@
+.dub
+docs.json
+__dummy.html
+*.o
+*.obj
+
+.vs/
+
+dub.selections.json
+wedit
+
+.DS_STORE
